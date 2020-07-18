@@ -1,43 +1,71 @@
 =======================
-     2020/07/16
+     2020/07/18
 =======================
 
-* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
+* Repository: https://github.com/FreakyOS-Devices/device_xiaomi_tulip/commits/still_alive
 
-715dcde sepolicy: Add rules for FPS info
+1946b0b tulip: Init releasetools.py
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+e04235d base: Add back gesture haptic feedback toggle [1/2]
+
+* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
+
+237a476 Graveyard: Signature spoofing [2/2]
+
+* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
+
+4147151 Merge changes I400a0926,I07cf841e,I0573f1b0,I55816ee2 into still_alive
+
+* Repository: https://github.com/FreakyOS/system_netd/commits/still_alive
+
+6e3cbc9 system/netd: Add support for per app network isolation
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+e034ff5 vendor: overlay: change default dialer, photos & music app
+
+
+=======================
+     2020/07/17
+=======================
 
 * Repository: https://github.com/FreakyOS-Devices/android_device_xiaomi_sdm660-common/commits/still_alive
 
 784cff2 tulip: Address FPS Info denials
 
-* Repository: https://github.com/FreakyOS-Devices/device_xiaomi_tulip/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_apps_DeskClock/commits/still_alive
 
-452c6db tulip:overlay: Add FPS info path
+50ae274 DeskClock: Move navigation bar to bottom
 
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+* Repository: https://github.com/FreakyOS/packages_apps_Dialer/commits/still_alive
 
-27e0e2e base: Add GoogleSans font overlay
-6fc1704 Add OnePlus Slate font [1/2]
-493325e SystemUI: FPS Info improvements
-8781172 SystemUI: FPS Info Overlay & Tile
+1571c24 Iterate old recordings properly when migrating call recording data.
 
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
 
-3710b3a Settings: Use global fonts in styles
-
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-0d54b3e vendor: rework on signing keys flag logic
-4067c4c vendor: Target gapps arch instead of platform arch for including the face unlock
+=======================
+     2020/07/16
+=======================
 
 
 =======================
      2020/07/15
 =======================
 
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
 
-1c7cba0 freakystyle: Add Oneplus Slate font [2/2]
+=======================
+     2020/07/14
+=======================
+
+* Repository: https://github.com/FreakyOS/device_custom_sepolicy/commits/still_alive
+
+5b63338 sepolicy: Add rules for FPS info
+
+* Repository: https://github.com/niteshkumar2000/proprietary_vendor_xiaomi/commits/still_alive
+
+6855d7d sdm660-common: Update Graphics (SDM) - from LA.UM.8.2.r1-06200-sdm660.0
+
 
 =======================
      2020/07/13
@@ -55,26 +83,13 @@
 
 6781b93 manifest: link our gerrit
 
-* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
-
-f4b34a4 Merge "vendor: rework on the releasekey flag" into still_alive
-
-* Repository: https://github.com/niteshkumar2000/proprietary_vendor_xiaomi/commits/still_alive
-
-6855d7d sdm660-common: Update Graphics (SDM) - from LA.UM.8.2.r1-06200-sdm660.0
-
-
-=======================
-     2020/07/12
-=======================
-
 * Repository: https://github.com/FreakyOS/packages_apps_OmniStyle/commits/still_alive
 
 c90076f Omnistyle: Add more scenery headers
 
 
 =======================
-     2020/07/11
+     2020/07/12
 =======================
 
 * Repository: /commits/still_alive
@@ -84,12 +99,8 @@ a09076c WallBucket: clean up & migrate the package to androidx android packages
 
 
 =======================
-     2020/07/10
+     2020/07/11
 =======================
-
-* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
-
-2993373 SystemUI: Rounded Corner: Code improvement and clean up
 
 * Repository: https://github.com/FreakyOS/frameworks_native/commits/still_alive
 
@@ -98,14 +109,6 @@ a09076c WallBucket: clean up & migrate the package to androidx android packages
 * Repository: https://github.com/FreakyOS/packages_apps_FMRadio/commits/still_alive
 
 d027760 FMRadio: Automatic translation import
-
-* Repository: https://github.com/FreakyOS/packages_apps_FreakyGraveyard/commits/still_alive
-
-e174ca6 Graveyard: Make roaming indicator optional [2/2]
-
-* Repository: https://github.com/FreakyOS/packages_apps_Settings/commits/still_alive
-
-cdf25dc Settings: rework on maintainer string
 
 * Repository: https://github.com/FreakyOS/packages_apps_Snap/commits/still_alive
 
@@ -133,7 +136,7 @@ cdf25dc Settings: rework on maintainer string
 
 
 =======================
-     2020/07/09
+     2020/07/10
 =======================
 
 * Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
@@ -143,18 +146,6 @@ cdf25dc Settings: rework on maintainer string
 * Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
 
 729408e wifi: Add StaState API
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
-
-3b99c72 hal: msm8974: Use stereo recording depending on camera orientation
-
-* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
-
-92531ae gralloc: Add option for unaligned YCrCb pixel format
-
-* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
-
-6d10226 Stub TWS related APIs
 
 * Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
 
@@ -168,18 +159,45 @@ fd54269 Automatic translation import
 
 5de92bd Automatic translation import
 
+
+=======================
+     2020/07/09
+=======================
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
+
+3b99c72 hal: msm8974: Use stereo recording depending on camera orientation
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
+
+92531ae gralloc: Add option for unaligned YCrCb pixel format
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+6d10226 Stub TWS related APIs
+
 * Repository: https://github.com/PixelExperience/vendor_qcom_opensource_fm-commonsys/commits/ten
 
 a8ba5e8 Automatic translation import
 
+
 =======================
-     2020/07/03
+     2020/07/08
 =======================
 
-* Repository: /commits/still_alive
 
-43eaada WallBucket: Testing New UI
-9df2173 initial commit
-ae6337b Initial commit
+=======================
+     2020/07/07
+=======================
+
+
+=======================
+     2020/07/06
+=======================
+
+
+=======================
+     2020/07/05
+=======================
 
 
