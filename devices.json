@@ -76,6 +76,12 @@
             "codename": "X00R",
             "maintainer": "INDER",
             "image": "https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg"
+        },
+            "name": "Pocophone F1",
+            "brand": "Xiaomi",
+            "codename": "beryllium",
+            "maintainer": "Aman Singh",
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/beryllium.png"
         }
     ]
 }
