@@ -50,6 +50,13 @@
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png"
         },
         {
+            "name": "Xiaomi Redmi Note 5 Pro",
+            "brand": "Xiaomi",
+            "codename": "whyred",
+            "maintainer": "Amith Acharya",
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/whyred.png"
+        },
+        {
             "name": "Xiaomi Redmi Y2",
             "brand": "Xiaomi",
             "codename": "ysl",
