@@ -40,7 +40,7 @@
             "brand": "Xiaomi",
             "codename": "santoni",
             "maintainer": "Amith Acharya",
-            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png",
             "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
             "telegram_link": "https://t.me/amith_acharya",
             "github_link": "https://github.com/amith07"
@@ -50,7 +50,7 @@
             "brand": "Xiaomi",
             "codename": "ginkgo",
             "maintainer": "Amith Acharya",
-            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png"
+            "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png",
             "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
             "telegram_link": "https://t.me/amith_acharya",
             "github_link": "https://github.com/amith07"
