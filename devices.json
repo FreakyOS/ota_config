@@ -154,6 +154,15 @@
             "image": "http://cdn2.gsmarena.com/vv/pics/leeco/le-eco-le2.jpg",
             "telegram_link": "https://t.me/merser2005",
             "github_link": "https://github.com/merser2005"
+        },    
+        {
+        	"name": "Asus Max Pro M1",
+            "brand": "Asus",
+            "codename": "X00TD",
+            "maintainer": "vicky5155",
+            "image": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-pro-m1-zb601kl-0.jpg",
+            "telegram_link": "https://t.me/vigneshtn36",
+            "github_link": "https://github.com/Vicky5155"
         }               
     ]
 }
