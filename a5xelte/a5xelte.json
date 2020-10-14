@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1598985935,
-      "filename": "FreakyOS_ver[X]-a5xelte-20200901-1846-OFFICIAL.zip",
-      "id": "8f7b7d991e44c827eaaac0cfb9ce4d83",
+      "datetime": 1602676384,
+      "filename": "FreakyOS_ver[X.I]-a5xelte-20201014-1153-OFFICIAL.zip",
+      "id": "ef45c48e913f808d594b1c89a2c3fe64",
       "romtype": "OFFICIAL",
-      "size": 786736828,
-      "url": "https://sourceforge.net/projects/freakyos/files/a5xelte/FreakyOS_ver[X]-a5xelte-20200901-1846-OFFICIAL.zip/download",
-      "version": "ver[X]"
+      "size": 791332682,
+      "url": "https://sourceforge.net/projects/freakyos/files/a5xelte/FreakyOS_ver[X.I]-a5xelte-20201014-1153-OFFICIAL.zip/download",
+      "version": "ver[X.I]"
     }
   ]
 }
