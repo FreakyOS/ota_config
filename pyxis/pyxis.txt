@@ -1,0 +1,102 @@
+=======================
+     2020/11/05
+=======================
+
+
+=======================
+     2020/11/04
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/device_xiaomi_pyxis/commits/still_alive
+
+997f95c Merge branch 'still_alive' of https://github.com/FreakyOS-Devices/device_xiaomi_pyxis into still_alive
+
+
+=======================
+     2020/11/03
+=======================
+
+* Repository: https://github.com/LineageOS/android_packages_resources_devicesettings/commits/lineage-17.1
+
+2fc8419 Add strings for wake on gesture
+
+
+=======================
+     2020/11/02
+=======================
+
+
+=======================
+     2020/11/01
+=======================
+
+
+=======================
+     2020/10/31
+=======================
+
+* Repository: https://github.com/PixelExperience/vendor_google-customization/commits/ten
+
+31e6ac0 Remove com.android.apex.cts.shim
+
+
+=======================
+     2020/10/30
+=======================
+
+* Repository: https://github.com/FreakyOS/vendor_freaky/commits/still_alive
+
+ac02785 vendor: Add jasmine_sprout and pyxis to official devices
+
+
+=======================
+     2020/10/29
+=======================
+
+* Repository: https://github.com/PixelExperience/system_apex/commits/ten
+
+803f7b5 Revert "Disable the build of com.android.apex.cts.shim.v1_prebuilt"
+
+
+=======================
+     2020/10/28
+=======================
+
+* Repository: https://github.com/FreakyOS-Devices/android_kernel_xiaomi_sdm710/commits/still_alive
+
+3d10697 Merge tag 'LA.UM.9.8.r1-02900-SDM710.0' of https://source.codeaurora.org/quic/la/kernel/msm-4.9 into 10.0-caf
+
+* Repository: /commits/still_alive
+
+3d3e8fe Merge pull request #1 from FreakyOS/new_graveyard_impl
+
+
+=======================
+     2020/10/27
+=======================
+
+
+=======================
+     2020/10/26
+=======================
+
+* Repository: https://github.com/FreakyOS/frameworks_base/commits/still_alive
+
+30caa19 base: overlay: Nuke unwanted skin tones
+
+
+=======================
+     2020/10/25
+=======================
+
+
+=======================
+     2020/10/24
+=======================
+
+
+=======================
+     2020/10/23
+=======================
+
+
