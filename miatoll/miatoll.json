@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1598376697,
-      "filename": "FreakyOS_ver[X]-miatoll-20200825-1732-OFFICIAL.zip",
-      "id": "010aa5ed0a907e4bc7fdbfa79509d432",
+      "datetime": 1604651113,
+      "filename": "FreakyOS_ver[X.I]-miatoll-20201106-0825-OFFICIAL.zip",
+      "id": "33161d4a9086246d4c566df0eb85ef19",
       "romtype": "OFFICIAL",
-      "size": 1250034914,
-      "url": "https://sourceforge.net/projects/freakyos/files/miatoll/FreakyOS_ver[X]-miatoll-20200825-1732-OFFICIAL.zip/download",
-      "version": "ver[X]"
+      "size": 1519424190,
+      "url": "https://sourceforge.net/projects/freakyos/files/miatoll/FreakyOS_ver[X.I]-miatoll-20201106-0825-OFFICIAL.zip/download",
+      "version": "ver[X.I]"
     }
   ]
 }
