@@ -26,7 +26,8 @@
             "brand": "Xiaomi",
             "codename": "tulip",
             "maintainer": "Niteshkumar",
-            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png",
+	    "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-freaky-os-t4151451"
         },
         {
             "name": "Pocophone F1",
@@ -131,7 +132,8 @@
             "brand": "Xiaomi",
             "codename": "pyxis",
             "maintainer": "Czar Superstar",
-            "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-cc9-2.jpg"
+            "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-cc9-2.jpg",
+            "xda_link": "https://forum.xda-developers.com/mi-cc9/development/freakyos-t4166663"
         },
 	{
             "name": "LeEco Le 2",
