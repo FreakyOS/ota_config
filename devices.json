@@ -26,7 +26,8 @@
             "brand": "Xiaomi",
             "codename": "tulip",
             "maintainer": "Niteshkumar",
-            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png",
+	    "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-freaky-os-t4151451"
         },
         {
             "name": "Pocophone F1",
@@ -48,7 +49,7 @@
             "codename": "santoni",
             "maintainer": "Amith Acharya",
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/santoni.png",
-            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "xda_link": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/official-freaky-os-ver-xiaomi-redmi-4-4x-t4148771",
             "telegram_link": "https://t.me/amith_acharya",
             "github_link": "https://github.com/amith07"
         },
@@ -58,7 +59,7 @@
             "codename": "ginkgo",
             "maintainer": "Amith Acharya",
             "image": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/ginkgo.png",
-            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "xda_link": "https://forum.xda-developers.com/redmi-note-8/development/official-freaky-os-ver-xiaomi-redmi-t4155385",
             "telegram_link": "https://t.me/amith_acharya",
             "github_link": "https://github.com/amith07"
         },
@@ -68,7 +69,7 @@
             "codename": "ysl",
             "maintainer": "Amith Acharya",
             "image": "https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1528356164.70662753.jpg",
-            "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+            "xda_link": "https://forum.xda-developers.com/redmi-s2/development/official-freaky-os-ver-xiaomi-redmi-s2-t4155391",
             "telegram_link": "https://t.me/amith_acharya",
             "github_link": "https://github.com/amith07"
         },
@@ -131,7 +132,8 @@
             "brand": "Xiaomi",
             "codename": "pyxis",
             "maintainer": "Czar Superstar",
-            "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-cc9-2.jpg"
+            "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-cc9-2.jpg",
+            "xda_link": "https://forum.xda-developers.com/mi-cc9/development/freakyos-t4166663"
         },
 	{
             "name": "LeEco Le 2",
