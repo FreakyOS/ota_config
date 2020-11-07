@@ -26,7 +26,8 @@
             "brand": "Xiaomi",
             "codename": "tulip",
             "maintainer": "Niteshkumar",
-            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png"
+            "image": "https://raw.githubusercontent.com/LineageOS/lineage_wiki/master/images/devices/twolip.png",
+	    "xda_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-freaky-os-t4151451"
         },
         {
             "name": "Pocophone F1",
